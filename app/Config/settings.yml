@@ -1,0 +1,15 @@
+---
+Setting.meta_description: 'OWS - A Online Job Management System'
+Setting.meta_generator: 'OWS - Online Work Management System'
+Setting.keywords: ows, onlinework
+Setting.robots: index, follow
+Setting.timezone: Asia/Ho_Chi_Minh
+Setting.date_format: d/m/Y
+Setting.datetime_format: d/m/Y H:i
+Setting.date_format_js: dd/mm/yy
+Setting.rows_per_page: 5
+Setting.rows_per_page_option: 5,50,100,200
+Setting.support_email: support@onlineworks.vn
+Setting.language: eng
+Setting.site_status: 1
+Setting.site_title: Onlineworks

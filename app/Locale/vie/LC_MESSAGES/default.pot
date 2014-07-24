@@ -1,0 +1,892 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-06-12 09:56+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CategoriesController.php:53;78
+msgid "The category has been saved"
+msgstr ""
+
+#: Controller/CategoriesController.php:60;81
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:74
+msgid "Invalid category"
+msgstr ""
+
+#: Controller/QuestionsController.php:65
+msgid "There aren't task. Please, try again."
+msgstr ""
+
+#: Controller/QuestionsController.php:68
+#: View/Elements/backend/navigation.ctp:10
+#: View/Elements/backend/question_grid.ctp:12
+#: View/Elements/frontend/navigation.ctp:5
+#: View/Questions/admin_review.ctp:14
+msgid "Question"
+msgstr ""
+
+#: Controller/QuestionsController.php:82;338
+msgid "The question has been saved"
+msgstr ""
+
+#: Controller/QuestionsController.php:162
+msgid "Review lastest questions"
+msgstr ""
+
+#: Controller/QuestionsController.php:259;334
+msgid "Invalid question"
+msgstr ""
+
+#: Controller/QuestionsController.php:345
+msgid "The question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:26
+#: View/Roles/admin_index.ctp:6
+msgid "Add new role"
+msgstr ""
+
+#: Controller/RolesController.php:30;58
+msgid "The role has been saved"
+msgstr ""
+
+#: Controller/RolesController.php:37;61
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:52
+#: View/Roles/admin_edit.ctp:3
+msgid "Edit role"
+msgstr ""
+
+#: Controller/RolesController.php:54;82
+msgid "Invalid role"
+msgstr ""
+
+#: Controller/RolesController.php:86
+msgid "Role deleted"
+msgstr ""
+
+#: Controller/RolesController.php:89
+msgid "Role was not deleted"
+msgstr ""
+
+#: Controller/TasksController.php:143
+msgid "Task Management: Add new task"
+msgstr ""
+
+#: Controller/TasksController.php:148;190
+msgid "The task has been saved"
+msgstr ""
+
+#: Controller/TasksController.php:151;193
+msgid "The task could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TasksController.php:184;209
+msgid "Invalid task"
+msgstr ""
+
+#: Controller/TasksController.php:215
+#: View/Elements/backend/navigation.ctp:9
+#: View/Elements/frontend/navigation.ctp:4
+msgid "Task"
+msgstr ""
+
+#: Controller/UsersController.php:24
+#: View/Users/admin_login.ctp:8
+msgid "Login"
+msgstr ""
+
+#: Controller/UsersController.php:53
+msgid "Admin Login"
+msgstr ""
+
+#: Controller/UsersController.php:68
+#: View/Elements/backend/navigation.ctp:3
+#: View/Elements/frontend/navigation.ctp:3
+msgid "Dashboard"
+msgstr ""
+
+#: Controller/UsersController.php:109;162
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:116;169
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:132;215
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:219
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:222
+msgid "User was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:276
+msgid "Username or password is invalid."
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:45
+#: Plugin/Acl/View/AclActions/admin_index.ctp:16
+msgid "Actions"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:60
+#: Plugin/Acl/View/AclPermissions/admin_index.ctp:8
+msgid "Add Action"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:74
+msgid "The %s has been saved"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:77
+msgid "The %s could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:105
+msgid "Edit Action"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:108
+msgid "Invalid Action"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:113
+msgid "The Action has been saved"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:116
+msgid "The Action could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:148;166
+msgid "Invalid id for Action"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:152
+msgid "Action deleted"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:171
+msgid "Action moved up"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:176
+msgid "Action moved down"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclActionsController.php:233
+msgid "Created %d new permissions"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclPermissionsController.php:48
+msgid "Permissions"
+msgstr ""
+
+#: Plugin/Acl/Controller/AclPermissionsController.php:90
+#: Plugin/Acl/View/AclPermissions/admin_index.ctp:4
+#: View/Elements/backend/navigation.ctp:6
+msgid "Permission"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_add.ctp:9
+#: Plugin/Acl/View/AclActions/admin_edit.ctp:8
+msgid "Choose none if the Aco is a controller."
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:7
+msgid "New Action"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:8
+msgid "Generate Actions"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:14
+#: Plugin/Acl/View/AclPermissions/admin_index.ctp:24
+msgid "Id"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:15
+#: Plugin/Acl/View/AclPermissions/admin_index.ctp:25
+msgid "Alias"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:37
+#: View/Tasks/admin_view.ctp:4
+msgid "Edit"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:38
+#: View/Categories/admin_index.ctp:11
+#: View/Elements/backend/question_review_row.ctp:6
+#: View/Questions/admin_index.ctp:9
+#: View/Tasks/admin_index.ctp:12
+#: View/Users/admin_index.ctp:12
+msgid "Delete"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:41
+msgid "Are you sure?"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:42
+msgid "Move up"
+msgstr ""
+
+#: Plugin/Acl/View/AclActions/admin_index.ctp:43
+msgid "Move down"
+msgstr ""
+
+#: Plugin/Acl/View/AclPermissions/admin_index.ctp:7
+msgid "Generate Action"
+msgstr ""
+
+#: Plugin/Acl/View/AclPermissions/admin_toggle.ctp:9
+msgid "error"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:1
+msgid "PHP Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:18
+msgid "CakePHP Environment"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:3
+#: View/Categories/admin_index.ctp:6
+msgid "Add new category"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:7
+#: View/Categories/admin_edit.ctp:7
+#: View/Questions/add.ctp:5
+#: View/Questions/admin_edit.ctp:4
+#: View/Roles/admin_add.ctp:7
+#: View/Roles/admin_edit.ctp:7
+#: View/Tasks/admin_add.ctp:6
+#: View/Tasks/admin_edit.ctp:4
+#: View/Users/admin_add.ctp:4
+#: View/Users/admin_edit.ctp:6
+msgid "Save"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:12
+#: View/Categories/admin_edit.ctp:12
+#: View/Questions/add.ctp:11
+#: View/Questions/admin_edit.ctp:10
+#: View/Roles/admin_add.ctp:12
+#: View/Roles/admin_edit.ctp:12
+#: View/Tasks/admin_add.ctp:11
+#: View/Tasks/admin_edit.ctp:9
+#: View/Users/admin_add.ctp:9
+#: View/Users/admin_edit.ctp:11
+msgid "Save & New"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:17
+#: View/Categories/admin_edit.ctp:17
+#: View/Questions/add.ctp:17
+#: View/Questions/admin_edit.ctp:16
+#: View/Roles/admin_add.ctp:17
+#: View/Roles/admin_edit.ctp:17
+#: View/Users/admin_add.ctp:14
+#: View/Users/admin_edit.ctp:16
+msgid "Cancel"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:29
+#: View/Categories/admin_edit.ctp:30
+#: View/Elements/backend/task_grid.ctp:10
+#: View/Elements/backend/test_grid.ctp:7
+#: View/Tasks/admin_add.ctp:25
+#: View/Tasks/admin_edit.ctp:23
+#: View/Users/admin_add.ctp:28
+#: View/Users/admin_edit.ctp:32
+msgid "Name"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:40
+#: View/Categories/admin_edit.ctp:41
+msgid "Description"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:51
+#: View/Categories/admin_edit.ctp:52
+#: View/Elements/backend/category_grid.ctp:13
+#: View/Elements/backend/question_grid.ctp:22
+#: View/Elements/backend/task_grid.ctp:9
+#: View/Elements/backend/test_grid.ctp:11
+#: View/Elements/backend/user_grid.ctp:13
+#: View/Questions/admin_review.ctp:13
+#: View/Tasks/admin_add.ctp:57
+#: View/Tasks/admin_edit.ctp:43
+#: View/Tasks/admin_view.ctp:21
+#: View/Users/admin_add.ctp:52
+#: View/Users/admin_edit.ctp:64
+msgid "Status"
+msgstr ""
+
+#: View/Categories/admin_edit.ctp:3
+msgid "Edit category"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:3
+#: View/Elements/backend/category_grid.ctp:12
+#: View/Elements/backend/navigation.ctp:7
+#: View/Elements/backend/test_grid.ctp:8
+msgid "Category"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:28
+#: View/Questions/admin_index.ctp:26
+#: View/Tasks/admin_index.ctp:29
+#: View/Users/admin_index.ctp:29
+msgid "Are you sure you want to delete ?"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:40
+#: View/Questions/admin_index.ctp:37
+#: View/Tasks/admin_index.ctp:41
+#: View/Users/admin_index.ctp:41
+msgid "<< Go to Top"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:45
+#: View/Questions/admin_index.ctp:42
+#: View/Questions/admin_review.ctp:5
+#: View/Roles/admin_index.ctp:39
+#: View/Tasks/admin_index.ctp:46
+#: View/Users/admin_index.ctp:46
+msgid "Warning"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:45
+msgid "No category in system."
+msgstr ""
+
+#: View/Elements/pagination.ctp:7
+msgid "Previous"
+msgstr ""
+
+#: View/Elements/pagination.ctp:34
+msgid "Next"
+msgstr ""
+
+#: View/Elements/question_form.ctp:22
+#: View/Elements/backend/question_grid.ctp:21
+#: View/Questions/admin_review.ctp:21
+msgid "Score"
+msgstr ""
+
+#: View/Elements/question_form.ctp:28
+#: View/Elements/backend/question_grid.ctp:18
+#: View/Questions/admin_review.ctp:19
+msgid "Difficulty"
+msgstr ""
+
+#: View/Elements/question_form.ctp:49
+msgid "enter answer text"
+msgstr ""
+
+#: View/Elements/backend/category_grid.ctp:14
+#: View/Elements/backend/question_grid.ctp:19
+#: View/Elements/backend/test_grid.ctp:10
+#: View/Elements/backend/user_grid.ctp:12
+#: View/Questions/admin_review.ctp:22
+msgid "Create Date"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:6
+msgid "Page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:11;15;20
+msgid "Go to Previous page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:12
+msgid "Previous page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:21
+msgid "Next page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:24
+msgid "Go to Next page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:26
+msgid "of %d pages"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:30
+msgid "View"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:35
+msgid "per page"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:40
+msgid "items selected"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:43
+msgid "Reset"
+msgstr ""
+
+#: View/Elements/backend/grid_bar.ctp:44
+msgid "Search"
+msgstr ""
+
+#: View/Elements/backend/navigation.ctp:4
+msgid "Member"
+msgstr ""
+
+#: View/Elements/backend/navigation.ctp:5
+#: View/Elements/backend/user_grid.ctp:11
+#: View/Roles/admin_add.ctp:3
+#: View/Roles/admin_index.ctp:3
+#: View/Users/admin_add.ctp:48
+#: View/Users/admin_edit.ctp:52
+msgid "Role"
+msgstr ""
+
+#: View/Elements/backend/navigation.ctp:8
+#: View/Elements/backend/question_grid.ctp:16
+#: View/Elements/backend/task_grid.ctp:15
+#: View/Questions/admin_review.ctp:18
+#: View/Tasks/admin_add.ctp:33
+#: View/Tasks/admin_edit.ctp:31
+#: View/Tasks/admin_view.ctp:31
+msgid "Test"
+msgstr ""
+
+#: View/Elements/backend/navigation.ctp:11
+msgid "Review"
+msgstr ""
+
+#: View/Elements/backend/question_grid.ctp:14
+#: View/Questions/admin_review.ctp:16
+msgid "Author"
+msgstr ""
+
+#: View/Elements/backend/question_grid.ctp:17
+#: View/Questions/admin_review.ctp:20
+msgid "Type"
+msgstr ""
+
+#: View/Elements/backend/question_grid.ctp:20
+#: View/Questions/admin_review.ctp:23
+msgid "Last Update"
+msgstr ""
+
+#: View/Elements/backend/question_review_row.ctp:4
+msgid "Checked"
+msgstr ""
+
+#: View/Elements/backend/question_review_row.ctp:5
+msgid "Reject"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:11
+#: View/Tasks/admin_add.ctp:29
+#: View/Tasks/admin_edit.ctp:27
+#: View/Tasks/admin_view.ctp:27
+msgid "Assigned To"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:13
+msgid "Created By"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:16
+#: View/Elements/backend/test_grid.ctp:9
+msgid "Question Number"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:17
+#: View/Tasks/admin_edit.ctp:39
+#: View/Tasks/admin_view.ctp:39
+msgid "Progress"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:18
+msgid "Est. Time"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:19
+#: View/Tasks/admin_add.ctp:45
+#: View/Tasks/admin_view.ctp:43
+msgid "Start Date"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:20
+#: View/Tasks/admin_add.ctp:51
+#: View/Tasks/admin_view.ctp:47
+msgid "Due Date"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:38
+#: View/Questions/admin_review.ctp:56
+msgid "Close"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:42
+msgid "Overtime"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:44
+msgid "Open"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:48
+msgid "Registered"
+msgstr ""
+
+#: View/Elements/backend/task_grid.ctp:51
+msgid "Completed"
+msgstr ""
+
+#: View/Elements/backend/user_grid.ctp:9
+#: View/Users/admin_add.ctp:32
+#: View/Users/admin_edit.ctp:36
+#: View/Users/admin_login.ctp:11
+#: View/Users/login.ctp:12
+msgid "Username"
+msgstr ""
+
+#: View/Elements/backend/user_grid.ctp:10
+#: View/Users/admin_add.ctp:44
+#: View/Users/admin_edit.ctp:48
+msgid "Email"
+msgstr ""
+
+#: View/Elements/frontend/navigation.ctp:25
+#: View/Layouts/admin.ctp:63
+msgid "Profile"
+msgstr ""
+
+#: View/Elements/frontend/navigation.ctp:27
+msgid "Log Out"
+msgstr ""
+
+#: View/Errors/error400.ctp:1
+#: View/Errors/error500.ctp:1
+#: View/Errors/missing_action.ctp:2
+#: View/Errors/missing_controller.ctp:2
+msgid "We're sorry..."
+msgstr ""
+
+#: View/Errors/error400.ctp:2
+#: View/Errors/error500.ctp:3
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:5
+#: View/Errors/error500.ctp:8
+#: View/Errors/missing_action.ctp:5
+#: View/Errors/missing_controller.ctp:5
+msgid "Return to the homepage"
+msgstr ""
+
+#: View/Errors/error500.ctp:4
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Errors/missing_action.ctp:3
+#: View/Errors/missing_controller.ctp:3
+msgid "The page or journal you are looking for cannot be found."
+msgstr ""
+
+#: View/Layouts/admin.ctp:24
+#: View/Layouts/admin_login.ctp:6
+msgid "OWS"
+msgstr ""
+
+#: View/Layouts/admin.ctp:43
+msgid "Onlineworks"
+msgstr ""
+
+#: View/Layouts/admin.ctp:56
+msgid "settings"
+msgstr ""
+
+#: View/Layouts/admin.ctp:65
+msgid "Logout"
+msgstr ""
+
+#: View/Layouts/admin.ctp:88
+msgid "Warning!"
+msgstr ""
+
+#: View/Layouts/admin.ctp:89
+msgid "You need to have %s enabled to use this site."
+msgstr ""
+
+#: View/Layouts/error.ctp:10
+msgid "Nothing found for  404"
+msgstr ""
+
+#: View/Layouts/login.ctp:9
+#: View/Users/login.ctp:2
+msgid "Collaborator System"
+msgstr ""
+
+#: View/Questions/admin_index.ctp:4
+msgid "Add question"
+msgstr ""
+
+#: View/Questions/admin_index.ctp:42
+#: View/Questions/admin_review.ctp:5
+msgid "No question in system."
+msgstr ""
+
+#: View/Questions/admin_index.ctp:52
+msgid "Select a question format"
+msgstr ""
+
+#: View/Questions/admin_review.ctp:52
+msgid "Edit question"
+msgstr ""
+
+#: View/Questions/admin_review.ctp:57
+msgid "Save changes"
+msgstr ""
+
+#: View/Roles/admin_add.ctp:32
+#: View/Roles/admin_edit.ctp:35
+msgid "Role Title"
+msgstr ""
+
+#: View/Roles/admin_add.ctp:41
+#: View/Roles/admin_edit.ctp:44
+msgid "Role Parent"
+msgstr ""
+
+#: View/Roles/admin_index.ctp:19
+msgid "Role title"
+msgstr ""
+
+#: View/Roles/admin_index.ctp:20
+msgid "Parent ID"
+msgstr ""
+
+#: View/Roles/admin_index.ctp:21
+msgid "ID"
+msgstr ""
+
+#: View/Roles/admin_index.ctp:39
+msgid "No roles in system."
+msgstr ""
+
+#: View/Settings/admin_index.ctp:1
+msgid "Synchronize Database"
+msgstr ""
+
+#: View/Settings/admin_index.ctp:3
+msgid "synchronize"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:16
+#: View/Tasks/admin_edit.ctp:14
+#: View/Tasks/admin_view.ctp:9
+msgid "Back"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:30
+msgid "Select recipient"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:34
+msgid "Select test"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:37
+#: View/Tasks/admin_edit.ctp:35
+#: View/Tasks/admin_view.ctp:35
+msgid "Question number"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:41
+msgid "Estimate Time"
+msgstr ""
+
+#: View/Tasks/admin_add.ctp:58
+msgid "Select status"
+msgstr ""
+
+#: View/Tasks/admin_index.ctp:3
+msgid "Tasks"
+msgstr ""
+
+#: View/Tasks/admin_index.ctp:7
+msgid "Add task"
+msgstr ""
+
+#: View/Tasks/admin_index.ctp:46
+msgid "No tasks in system."
+msgstr ""
+
+#: View/Tasks/admin_view.ctp:51
+msgid "Created"
+msgstr ""
+
+#: View/Tasks/admin_view.ctp:58
+msgid "List question"
+msgstr ""
+
+#: View/Users/admin_add.ctp:23
+#: View/Users/admin_edit.ctp:25
+msgid "Account Details"
+msgstr ""
+
+#: View/Users/admin_add.ctp:36
+#: View/Users/admin_edit.ctp:40
+#: View/Users/login.ctp:22
+msgid "Password"
+msgstr ""
+
+#: View/Users/admin_add.ctp:40
+#: View/Users/admin_edit.ctp:44
+msgid "Password Confirm"
+msgstr ""
+
+#: View/Users/admin_add.ctp:49
+msgid "Select role"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:26
+msgid "Assigned Test Category"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:27
+msgid "Assigned Collaborator"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:56
+msgid "Register Date"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:60
+msgid "Last Visit Date"
+msgstr ""
+
+#: View/Users/admin_index.ctp:3
+msgid "Members"
+msgstr ""
+
+#: View/Users/admin_index.ctp:7
+msgid "Add new member"
+msgstr ""
+
+#: View/Users/admin_index.ctp:46
+msgid "No member in system."
+msgstr ""
+
+#: View/Users/admin_login.ctp:2
+msgid "Admin Onlineworks"
+msgstr ""
+
+#: View/Users/admin_login.ctp:12
+msgid "Your password"
+msgstr ""
+
+#: View/Users/admin_login.ctp:13
+#: View/Users/login.ctp:40
+msgid "Forgot password?"
+msgstr ""
+
+#: View/Users/admin_login.ctp:17
+#: View/Users/login.ctp:34
+msgid "Remember me"
+msgstr ""
+
+#: View/Users/admin_login.ctp:19
+msgid "Log in"
+msgstr ""
+
+#: View/Users/login.ctp:36
+msgid "Log In"
+msgstr ""
+
+#: Model/Category.php:validation for field name;validation for field status
+#: Model/Question.php:validation for field question_type_id;validation for field score;validation for field difficulty
+#: Model/QuestionType.php:validation for field name
+#: Model/Task.php:validation for field author_id;validation for field recipient_id;validation for field test_id
+#: Model/Test.php:validation for field name;validation for field category_id;validation for field duration;validation for field question_number;validation for field pass_score;validation for field status
+msgid "notempty"
+msgstr ""
+
+#: Model/Question.php:validation for field content
+msgid "You must fill content"
+msgstr ""
+
+#: Model/Question.php:validation for field answer
+msgid "You must have at least 5 answer options."
+msgstr ""
+
+#: Model/Question.php:validation for field answer
+msgid "You must have a correct question."
+msgstr ""
+
+#: Model/Task.php:validation for field question_number
+#: Model/Test.php:validation for field category_id;validation for field duration;validation for field question_number;validation for field pass_score
+msgid "numeric"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "username_must_not_be_empty"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "username_must_be_unique"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "email_must_not_be_empty"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "email_form"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "email_must_be_unique"
+msgstr ""
+
+#: Model/User.php:validation for field passwd;validation for field passwd_confirm
+msgid "required"
+msgstr ""
+
+#: Model/User.php:validation for field passwd
+msgid "min"
+msgstr ""
+
+#: Model/User.php:validation for field passwd
+msgid "match"
+msgstr ""
+
